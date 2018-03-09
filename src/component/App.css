@@ -1,0 +1,27 @@
+.nav-container{
+  text-align: center;
+  background-color: #666633;
+  color: white;
+}
+
+nav a{
+  text-decoration: none;
+  margin: 20px;
+}
+
+body, html{
+  margin: 0;
+  padding: 0;
+  background-color: lightgrey;
+}
+
+button{
+  /* padding: 0 60px; */
+  height: 30px;
+  width: 15%;
+}
+
+img{
+  height: 200px;
+  width: auto;
+}
